@@ -1,0 +1,104 @@
+#title {
+  background-color: #000;
+  color: #fff;
+}
+h1 {
+  font-family: "Oswald";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2 {
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+h3 {
+  font-family: "oswald";
+  font-weight: bold;
+}
+body {
+  font-family: "roboto";
+}
+.title-p {
+  color: #fff;
+  padding-left: 20%;
+  font-size: 32px;
+}
+.nav-link {
+  color: #fff;
+}
+
+.btn-features {
+  height: 130px;
+  border: 0;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+}
+.opus {
+  font: bold;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+.opus-light {
+  font-size: 12px;
+  color: rgb(167, 166, 166);
+  width: 140px;
+  height: 40px;
+  margin: 0;
+}
+
+.divflax {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.feedback-container {
+  text-align: center;
+  background-color: rgb(238, 233, 233);
+}
+
+.feedback-blog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedback-coment {
+  font-style: italic;
+}
+#partners {
+  background-color: rgb(238, 233, 233);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+#pricing {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.card-text {
+  margin: 2px;
+  display: flex;
+  justify-content: center;
+}
+.card-header {
+  display: flex;
+  justify-content: center;
+}
+.card-title {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+.button-start-status {
+  display: flex;
+  justify-content: center;
+}
