@@ -102,3 +102,15 @@ body {
   display: flex;
   justify-content: center;
 }
+.col-xxl-2.col-xl-2.col-lg-4.col-md-4.ms-auto{
+  display: flex;
+  justify-content: center;
+}
+.title-second-text{
+  display: flex;
+  justify-content: center;
+}
+.title-button{
+  display: flex;
+  justify-content: center;
+}
